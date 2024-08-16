@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great, I'm on it! Replacing the logo with the new image.",
+        "message_id": "guest16082024062947",
+        "timestamp": "16082024062949",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add an image replacing the logo of a platform",
         "message_id": "guest16082024062947",
