@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the AI to add an image replacing the logo of a platform. The AI responded positively, acknowledging the request by stating, \"Great, I'm on it! Replacing the logo with the new image.\" Following this, the AI asked the user to provide more details about the project for better understanding.\nAI: Okay, I'll add a blue planet image for you.\nUser: add an image of a blue planet here\nAI: Got it, I will replace the logo image with a computer image.\nUser: replace the logo image with the image of a computer\n\nThis is the user's current request of changes to be made:\nreplace the hero image here with an image of Solana blockchain"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nadd an image of a green planet to the bottom"
     }
 ]
