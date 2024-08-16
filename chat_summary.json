@@ -42,5 +42,11 @@
         "content": "Got it, I will replace the logo image with a computer image.",
         "timestamp": "16082024063132",
         "message_id": "guest16082024063130"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the new computer image to maintain the original logo's dimensions or should we adjust the size to fit aesthetically?\", \"option1\": \"Maintain original dimensions\", \"option2\": \"Adjust dimensions for best aesthetic fit\"}, {\"question 2\": \"Do you have a specific computer image in mind, or should we select a suitable stock computer image?\", \"option1\": \"I will provide a specific image\", \"option2\": \"Please select a suitable stock image\"}], \"input_token_count\": 332, \"output_token_count\": 112, \"time_taken\": \"0:00:04.554130\"}",
+        "timestamp": "16082024063140",
+        "message_id": "guest16082024063130"
     }
 ]
