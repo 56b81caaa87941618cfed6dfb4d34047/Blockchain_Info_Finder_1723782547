@@ -18,5 +18,11 @@
         "content": "Great, I'm on it! Replacing the logo with the new image.",
         "timestamp": "16082024062949",
         "message_id": "guest16082024062947"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What is the preferred size and resolution for the new image?\", \"option1\": \"Keep it as the current logo size and resolution.\", \"option2\": \"Specify a new size and resolution.\"}, {\"question 2\": \"Should the new image maintain the original color scheme and branding aesthetics of the platform, or are we looking for a completely new design direction?\", \"option1\": \"Maintain the current color scheme and branding aesthetics.\", \"option2\": \"Introduce a new design direction.\"}], \"input_token_count\": 300, \"output_token_count\": 113, \"time_taken\": \"0:00:02.677843\"}",
+        "timestamp": "16082024062955",
+        "message_id": "guest16082024062947"
     }
 ]
