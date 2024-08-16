@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the new Solana blockchain image to be more illustrative or realistic in style?\", \"option1\": \"Illustrative, focusing on artistic interpretation\", \"option2\": \"Realistic, representing actual Solana elements and themes\"}, {\"question 2\": \"Do you have a specific resolution or aspect ratio in mind for the new hero image?\", \"option1\": \"Yes, I have specific dimensions in mind\", \"option2\": \"No, standard web resolutions are fine\"}], \"input_token_count\": 412, \"output_token_count\": 112, \"time_taken\": \"0:00:04.313046\"}",
+        "message_id": "guest16082024063340",
+        "timestamp": "16082024063350",
+        "component_file_name": "simple_hero_component_1723782550",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "replace the hero image here with an image of Solana blockchain",
         "message_id": "guest16082024063340",
