@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add an image of a blue planet here",
+        "message_id": "guest16082024063224",
+        "timestamp": "16082024063225",
+        "component_file_name": "simple_cta_component_1723782550",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dark/Light mode toggle for better visual compatibility\", \"checked\": true}, {\"feature\": \"Interactive blockchain tutorials to engage users\", \"checked\": false}, {\"feature\": \"Live chat support for immediate assistance\", \"checked\": true}, {\"feature\": \"Customizable dashboard for personalized information tracking\", \"checked\": true}, {\"feature\": \"Notification system for blockchain updates and news\", \"checked\": true}, {\"feature\": \"User feedback system for continuous improvement\", \"checked\": false}], \"input_token_count\": 286, \"output_token_count\": 114, \"time_taken\": \"0:00:04.636308\"}",
         "message_id": "guest16082024063130",
