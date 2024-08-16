@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "replace the hero image here with an image of Solana blockchain",
+        "message_id": "guest16082024063340",
+        "timestamp": "16082024063342",
+        "component_file_name": "simple_hero_component_1723782550",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I will update the hero image with an image of Solana blockchain.",
         "message_id": "guest16082024063340",
