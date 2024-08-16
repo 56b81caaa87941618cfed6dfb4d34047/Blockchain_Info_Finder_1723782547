@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement dynamic background themes based on user preferences or time of day, like a night mode with darker colors.\", \"checked\": true}, {\"feature\": \"Add an interactive 3D model of the blockchain ecosystem, allowing users to explore different technologies and platforms.\", \"checked\": false}, {\"feature\": \"Create a customizable dashboard where users can pin their favorite blockchain projects or news sources for quick access.\", \"checked\": true}, {\"feature\": \"Incorporate an AI chatbot that provides users with recent blockchain news and answers blockchain-related queries.\", \"checked\": false}, {\"feature\": \"Design a 'Latest Trends' section showing real-time statistics and news on blockchain technologies and cryptocurrencies.\", \"checked\": true}, {\"feature\": \"Add a feature for users to submit and share their own articles or findings on blockchain technology with the community.\", \"checked\": false}], \"input_token_count\": 300, \"output_token_count\": 188, \"time_taken\": \"0:00:03.902358\"}",
+        "message_id": "guest16082024063224",
+        "timestamp": "16082024063232",
+        "component_file_name": "simple_cta_component_1723782550",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly would you like the image of the blue planet to be added in the app? Can you specify the section or page?\", \"option1\": \"On the homepage\", \"option2\": \"In the about section\"}, {\"question 2\": \"How do you want the blue planet image to be displayed in its designated location?\", \"option1\": \"As a background image\", \"option2\": \"As an icon next to the text\"}], \"input_token_count\": 346, \"output_token_count\": 104, \"time_taken\": \"0:00:03.849967\"}",
         "message_id": "guest16082024063224",
