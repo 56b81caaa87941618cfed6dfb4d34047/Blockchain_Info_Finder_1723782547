@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, I will replace the logo image with a computer image.",
+        "message_id": "guest16082024063130",
+        "timestamp": "16082024063132",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "replace the logo image with the image of a computer",
         "message_id": "guest16082024063130",
