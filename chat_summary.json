@@ -12,5 +12,11 @@
         "content": "add an image replacing the logo of a platform",
         "timestamp": "16082024062949",
         "message_id": "guest16082024062947"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, I'm on it! Replacing the logo with the new image.",
+        "timestamp": "16082024062949",
+        "message_id": "guest16082024062947"
     }
 ]
