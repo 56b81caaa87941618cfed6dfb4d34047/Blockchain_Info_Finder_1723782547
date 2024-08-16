@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly would you like the image of the blue planet to be added in the app? Can you specify the section or page?\", \"option1\": \"On the homepage\", \"option2\": \"In the about section\"}, {\"question 2\": \"How do you want the blue planet image to be displayed in its designated location?\", \"option1\": \"As a background image\", \"option2\": \"As an icon next to the text\"}], \"input_token_count\": 346, \"output_token_count\": 104, \"time_taken\": \"0:00:03.849967\"}",
+        "message_id": "guest16082024063224",
+        "timestamp": "16082024063232",
+        "component_file_name": "simple_cta_component_1723782550",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll add a blue planet image for you.",
         "message_id": "guest16082024063224",
