@@ -24,7 +24,7 @@ Vue.component("simple_hero_component_1723782550", {
                     
                 </div>
                 <div id="hero-image-container" class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                    <img id="hero-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Blockchain_Info_Finder_1723782547/main/images/6ab85e40ccb34d61b8e887e5638221dd.jpeg" alt="hero image">
+                    <img id="hero-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Blockchain_Info_Finder_1723782547/main/images/e004b856adca487c8847875e051548d3.jpeg" alt="hero image">
                 </div>
             </div>
         </section>            
@@ -33,6 +33,6 @@ Vue.component("simple_hero_component_1723782550", {
         return {
             expanded: false,
             tab: null,
-        };
+        };  
     },
 });
