@@ -8,7 +8,7 @@ Vue.component("simple_footer_component_1723782550", {
                 <div id="footer-content" class="text-center">
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-white hover:text-pink-200 transition-colors duration-300">
-                            <img id="footer-logo" src="./images/logo.svg" class="h-8 mr-3 sm:h-10" alt="Landwind Logo" />
+                            <img id="footer-logo" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Blockchain_Info_Finder_1723782547/main/images/2a83dbb993144edd9c4ac1e42152b4c9.jpeg" class="h-8 mr-3 sm:h-10" alt="Landwind Logo" />
                             BlockchainExplorer
                         </a>
                     </div>

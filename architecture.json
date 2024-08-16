@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add an image replacing the logo of a platform\n\nThis is the user's current request of changes to be made:\nadd an image replacing the logo of a platform"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add an image replacing the logo of a platform\nAI: Great, I'm on it! Replacing the logo with the new image.\nUser: replace the logo image with the image of a computer\n\nThis is the user's current request of changes to be made:\nreplace the logo image with the image of a computer"
     }
 ]
